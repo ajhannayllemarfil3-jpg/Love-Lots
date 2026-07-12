@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#15000b;
+    overflow:hidden;
+    font-family:Arial,sans-serif;
+}
+
+h1{
+    position:absolute;
+    width:100%;
+    top:30px;
+    text-align:center;
+    color:white;
+    font-size:40px;
+    font-style:italic;
+}
+
+p{
+    position:absolute;
+    width:100%;
+    top:90px;
+    text-align:center;
+    color:white;
+    font-size:22px;
+}
+
+canvas{
+    display:block;
+}
+
